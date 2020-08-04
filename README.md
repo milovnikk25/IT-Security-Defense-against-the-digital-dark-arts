@@ -2,8 +2,8 @@ _____________________________________Understanding Security Threats_____________
 _____________________________________________________________________________________________________________________________________
 week 1.
 
-1. Phishing, baiting, and tailgating are examples of ________ attacks.
-:-social engineering
+Phishing, baiting, and tailgating are examples of ________ attacks.
+::-social engineering
 (Yep! These three attack types are designed to trick or deceive people into trusting an attacker. Phishing 
 
 accomplishes this via email, baiting uses physical props like USB drives, and tailgating happens when the 
